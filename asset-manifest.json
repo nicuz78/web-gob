@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/web-gob/static/css/main.a617e044.chunk.css",
+    "main.js": "/web-gob/static/js/main.ae3396f0.chunk.js",
+    "main.js.map": "/web-gob/static/js/main.ae3396f0.chunk.js.map",
+    "runtime-main.js": "/web-gob/static/js/runtime-main.191da604.js",
+    "runtime-main.js.map": "/web-gob/static/js/runtime-main.191da604.js.map",
+    "static/js/2.a9503c8e.chunk.js": "/web-gob/static/js/2.a9503c8e.chunk.js",
+    "static/js/2.a9503c8e.chunk.js.map": "/web-gob/static/js/2.a9503c8e.chunk.js.map",
+    "static/js/3.b3adf173.chunk.js": "/web-gob/static/js/3.b3adf173.chunk.js",
+    "static/js/3.b3adf173.chunk.js.map": "/web-gob/static/js/3.b3adf173.chunk.js.map",
+    "index.html": "/web-gob/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/web-gob/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.a9503c8e.chunk.js.LICENSE.txt": "/web-gob/static/js/2.a9503c8e.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/web-gob/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.191da604.js",
+    "static/js/2.a9503c8e.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.ae3396f0.chunk.js"
+  ]
+}
